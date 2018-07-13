@@ -6,7 +6,8 @@ View Dockerfiles:
 
 - [markoshust/lumen-php-apache (Docker Hub)](https://hub.docker.com/r/markoshust/lumen-php-apache/)
 	- 7.2
-		- [`latest`, `7.2`, `7.2-0`](https://github.com/markoshust/docker-lumen/tree/master/images/php-apache/7.2)
+		- [`latest`, `7.2`, `7.2-1`](https://github.com/markoshust/docker-lumen/tree/master/images/php-apache/7.2)
+		- [`7.2-0`](https://github.com/markoshust/docker-magento/tree/1.0.0/images/php-apache/7.2)
 
 ## Usage
 
